@@ -116,7 +116,7 @@ body {
 /* Sticky notes - "note:" in outline */
 .note {
     position: absolute;
-    top: -15px;
+    bottom: -15px;
     left: 20px;
     background: #FFE082;
     border: 3px solid #FF8F00;
